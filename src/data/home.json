@@ -1,0 +1,17 @@
+[
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "/img/hero-slider/hero2.jpg",
+                "title": "Portfolio d'un amateur",
+                "subTitle": "Louis Guigue",
+                "desc": "plus de photos prévues à partir de 2023 avec l'acquisition de mon A7C",
+                "buttonText": " "
+            }
+        ]
+    },
+    {
+        "qute": "Cartier-Bresson parlait de la photographie en expliquant qu'il est illusoire d'imaginer qu'elles sont faites par un appareil photo. Elles sont faites avec les yeux, la tête et le coeur. Novice en photographie, c'est la passion que je ressent en regardant des artistes qui m'a poussé à investir dans du matériel et de commencer mon périple dans la photographie."
+    }
+]
