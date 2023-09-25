@@ -7,7 +7,6 @@ const SEO = ({ title }) => {
         <Helmet>
             <meta charSet="utf-8" />
             <title>{title}</title>
-            <meta name="robots" content="noindex, follow" />
             <meta name="description" content="Louis Guigue - Portfolio photo" />
             <meta
                 name="viewport"
