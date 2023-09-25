@@ -13,7 +13,7 @@ const Footer = () => {
                                         <ul>
                                             <li>
                                                 <a href="https://louisguigue.com">
-                                                    Découvrir mon portfolio
+                                                    Mon portfolio
                                                 </a>
                                             </li>
                                         </ul>
