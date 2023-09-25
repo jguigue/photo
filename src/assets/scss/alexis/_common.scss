@@ -2638,7 +2638,7 @@ iframe {
     cursor: pointer;
     opacity: 0;
     visibility: hidden;
-    background-color: black;
+    background-color: $theme-color;
     background-size: 200% auto;
     background-position: left center;
     color: $dark;

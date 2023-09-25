@@ -17,9 +17,11 @@ import HomePage from "./pages/index";
 import Portfolio from "./pages/portfolio";
 import VideoGallery from "./pages/video-gallery";
 import PortfolioDetails from "./templates/galerie";
+import TagManager from "react-gtm-module";
 
 const App = () => {
     useEffect(() => {
+        TagManager.initialize({ gtmId: "GTM-WZWF68ZD" });
         AOS.init({
             offset: 80,
             duration: 1000,

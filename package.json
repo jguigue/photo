@@ -9,6 +9,7 @@
         "isotope-layout": "^3.0.6",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
+        "react-gtm-module": "^2.0.11",
         "react-helmet": "^6.1.0",
         "react-hook-form": "6.14.2",
         "react-isotope": "^1.0.7",
