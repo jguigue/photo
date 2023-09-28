@@ -28,6 +28,7 @@ const Header = ({ classOption }) => {
     const handleScroll = ({}) => {
         setScroll(window.scrollY);
     };
+
     return (
         <Fragment>
             <header

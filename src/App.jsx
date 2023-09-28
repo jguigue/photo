@@ -17,11 +17,12 @@ import HomePage from "./pages/index";
 import Portfolio from "./pages/portfolio";
 import VideoGallery from "./pages/video-gallery";
 import PortfolioDetails from "./templates/galerie";
-import TagManager from "react-gtm-module";
+import { GTMProvider } from "@elgorditosalsero/react-gtm-hook";
 
 const App = () => {
+    const gtmParams = { id: "GTM-WZWF68ZD" };
+
     useEffect(() => {
-        TagManager.initialize({ gtmId: "GTM-WZWF68ZD" });
         AOS.init({
             offset: 80,
             duration: 1000,
@@ -31,29 +32,33 @@ const App = () => {
         AOS.refresh();
     }, []);
     return (
-        <Router>
-            <NavScrollTop>
-                <Switch>
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/"}`}
-                        exact
-                        component={HomePage}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/portfolio"}`}
-                        component={Portfolio}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/video-gallery"}`}
-                        component={VideoGallery}
-                    />
-                    <Route
-                        path={`${process.env.PUBLIC_URL + "/galerie/:id"}`}
-                        component={PortfolioDetails}
-                    />
-                </Switch>
-            </NavScrollTop>
-        </Router>
+        <GTMProvider state={gtmParams}>
+            <Router>
+                <NavScrollTop>
+                    <Switch>
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/"}`}
+                            exact
+                            component={HomePage}
+                        />
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/portfolio"}`}
+                            component={Portfolio}
+                        />
+                        <Route
+                            path={`${
+                                process.env.PUBLIC_URL + "/video-gallery"
+                            }`}
+                            component={VideoGallery}
+                        />
+                        <Route
+                            path={`${process.env.PUBLIC_URL + "/galerie/:id"}`}
+                            component={PortfolioDetails}
+                        />
+                    </Switch>
+                </NavScrollTop>
+            </Router>
+        </GTMProvider>
     );
 };
 
