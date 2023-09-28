@@ -1,6 +1,8 @@
 import PropTypes from "prop-types";
 import { LightgalleryProvider, LightgalleryItem } from "react-lightgallery";
 import { Link } from "react-router-dom";
+import useMasonry from "../../hooks/use-masonry-gallery";
+import GalerieItem from "../../components/portfolio/galerie-item";
 
 const PortfolioDetailsContainer = ({ data }) => {
     const cate = data.categories.map((value, idx) => {
@@ -11,6 +13,17 @@ const PortfolioDetailsContainer = ({ data }) => {
             </span>
         );
     });
+
+    const GalleryData = data.gallery;
+    console.log(GalleryData);
+    const { categories } = useMasonry(
+        GalleryData,
+        ".portfolio-list",
+        ".masonry-grid",
+        ".messonry-button",
+        ".messonry-button button"
+    );
+
     return (
         <div className="portfolio-area portfolio-single">
             <div className="container">
@@ -19,7 +32,6 @@ const PortfolioDetailsContainer = ({ data }) => {
                         <div className="inner-content">
                             <div className="content" data-aos="fade-up">
                                 <p className="category">{cate}</p>
-                                <h3 className="title">{data.title}</h3>
                             </div>
                             <div className="portfolio-info">
                                 <div className="row">
@@ -110,39 +122,19 @@ const PortfolioDetailsContainer = ({ data }) => {
             </div>
             <div className="portfolio-area portfolio-default-area">
                 <div className="container-fluid">
-                    <div className="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-2 portfolio-list mb-n30">
+                    <div className="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-3 portfolio-list mb-n30">
                         <LightgalleryProvider>
-                            {data.gallery.map((gallery) => {
-                                console.log(gallery.id);
+                            <div className="col resizer"></div>
+
+                            {GalleryData.map((data) => {
                                 return (
                                     <div
-                                        key={gallery.id}
+                                        key={data.id}
                                         // eslint-disable-next-line react/no-unknown-property
                                         group={`any`}
                                         className={"col masonry-grid mb-30"}
                                     >
-                                        <div className="single-portfolio">
-                                            <LightgalleryItem
-                                                group="any"
-                                                src={
-                                                    process.env.PUBLIC_URL +
-                                                    gallery.url
-                                                }
-                                            >
-                                                <div className="thumbnail">
-                                                    <div className="overlay">
-                                                        <img
-                                                            src={
-                                                                process.env
-                                                                    .PUBLIC_URL +
-                                                                gallery.url
-                                                            }
-                                                            alt="portfolio"
-                                                        />
-                                                    </div>
-                                                </div>
-                                            </LightgalleryItem>
-                                        </div>
+                                        <GalerieItem data={data} />
                                     </div>
                                 );
                             })}

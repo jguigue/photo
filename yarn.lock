@@ -11048,6 +11048,11 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha512-/aCDEGatGvZ2BIk+HmLf4ifCJFwvKFNb9/JeZPMulfgFracn9QFcAf5GO8B/mweUjSoblS5In0cWhqpfs/5PQA==
 
+uhugrid@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/uhugrid/-/uhugrid-1.0.2.tgz#cd68e1b610d201f738a3381291e1d28f3203a450"
+  integrity sha512-aYXGwuA+BJYon7QGO1YeGLOvb6DPtyIEvxXlBY+Ho77l3cY+e59/9DqvE7Nz+2YhfQMJcl8+sv0enA6IX/8/Uw==
+
 unbox-primitive@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/unbox-primitive/-/unbox-primitive-1.0.2.tgz#29032021057d5e6cdbd08c5129c226dff8ed6f9e"

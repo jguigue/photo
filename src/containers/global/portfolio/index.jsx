@@ -31,18 +31,20 @@ const PortfolioContainer = () => {
 
                     <LightgalleryProvider>
                         {PortfolioData &&
-                            PortfolioData.map((portfolio) => (
-                                <div
-                                    key={portfolio.id}
-                                    // eslint-disable-next-line react/no-unknown-property
-                                    group={`any`}
-                                    className={`col masonry-grid mb-30 ${portfolio.categories
-                                        .map((cat) => slugify(cat))
-                                        .join(" ")}`}
-                                >
-                                    <PortfolioItem portfolio={portfolio} />
-                                </div>
-                            ))}
+                            PortfolioData.slice(0)
+                                .reverse()
+                                .map((portfolio) => (
+                                    <div
+                                        key={portfolio.id}
+                                        // eslint-disable-next-line react/no-unknown-property
+                                        group={`any`}
+                                        className={`col masonry-grid mb-30 ${portfolio.categories
+                                            .map((cat) => slugify(cat))
+                                            .join(" ")}`}
+                                    >
+                                        <PortfolioItem portfolio={portfolio} />
+                                    </div>
+                                ))}
                     </LightgalleryProvider>
                 </div>
             </div>
