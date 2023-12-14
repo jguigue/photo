@@ -460,5 +460,460 @@
                 "url": "/img/portfolio/sablettes_23_09/sablettes_23_09_19.jpg"
             }
         ]
+    },
+    {
+        "id": 8,
+        "type": "image",
+        "homeImage": "./img/portfolio/milan/milan_16.jpg",
+        "title": "Milan",
+        "slug": "milan",
+        "excerpt": "Octobre 2023",
+        "categories": ["Photographies urbaines"],
+        "client": "Milan",
+        "date": "Octobre 2023",
+        "team": "Alpha 7C",
+        "services": "80mm f1.8",
+        "body": ["", ""],
+        "pageUrl": {},
+        "gallery": [
+            {
+                "id": 1,
+                "url": "/img/portfolio/milan/milan_1.jpg"
+            },
+            {
+                "id": 2,
+                "url": "/img/portfolio/milan/milan_2.jpg"
+            },
+            {
+                "id": 4,
+                "url": "/img/portfolio/milan/milan_4.jpg"
+            },
+            {
+                "id": 5,
+                "url": "/img/portfolio/milan/milan_5.jpg"
+            },
+            {
+                "id": 6,
+                "url": "/img/portfolio/milan/milan_6.jpg"
+            },
+            {
+                "id": 7,
+                "url": "/img/portfolio/milan/milan_7.jpg"
+            },
+            {
+                "id": 8,
+                "url": "/img/portfolio/milan/milan_8.jpg"
+            },
+            {
+                "id": 9,
+                "url": "/img/portfolio/milan/milan_9.jpg"
+            },
+            {
+                "id": 10,
+                "url": "/img/portfolio/milan/milan_10.jpg"
+            },
+            {
+                "id": 11,
+                "url": "/img/portfolio/milan/milan_11.jpg"
+            },
+            {
+                "id": 14,
+                "url": "/img/portfolio/milan/milan_14.jpg"
+            },
+            {
+                "id": 15,
+                "url": "/img/portfolio/milan/milan_15.jpg"
+            },
+            {
+                "id": 16,
+                "url": "/img/portfolio/milan/milan_16.jpg"
+            },
+            {
+                "id": 17,
+                "url": "/img/portfolio/milan/milan_17.jpg"
+            },
+            {
+                "id": 18,
+                "url": "/img/portfolio/milan/milan_18.jpg"
+            },
+            {
+                "id": 19,
+                "url": "/img/portfolio/milan/milan_19.jpg"
+            },
+            {
+                "id": 20,
+                "url": "/img/portfolio/milan/milan_12.jpg"
+            },
+            {
+                "id": 19,
+                "url": "/img/portfolio/milan/milan_13.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "type": "image",
+        "homeImage": "./img/portfolio/florence/florence_16.jpg",
+        "title": "Florence",
+        "slug": "florence",
+        "excerpt": "Octobre 2023",
+        "categories": ["Photographies urbaines"],
+        "client": "Florence",
+        "date": "Octobre 2023",
+        "team": "Alpha 7C",
+        "services": "80mm f1.8",
+        "body": ["", ""],
+        "pageUrl": {},
+        "gallery": [
+            {
+                "id": 1,
+                "url": "/img/portfolio/florence/florence_1.jpg"
+            },
+            {
+                "id": 2,
+                "url": "/img/portfolio/florence/florence_2.jpg"
+            },
+            {
+                "id": 4,
+                "url": "/img/portfolio/florence/florence_3.jpg"
+            },
+            {
+                "id": 5,
+                "url": "/img/portfolio/florence/florence_4.jpg"
+            },
+            {
+                "id": 6,
+                "url": "/img/portfolio/florence/florence_5.jpg"
+            },
+            {
+                "id": 7,
+                "url": "/img/portfolio/florence/florence_6.jpg"
+            },
+            {
+                "id": 8,
+                "url": "/img/portfolio/florence/florence_7.jpg"
+            },
+            {
+                "id": 9,
+                "url": "/img/portfolio/florence/florence_8.jpg"
+            },
+            {
+                "id": 10,
+                "url": "/img/portfolio/florence/florence_9.jpg"
+            },
+            {
+                "id": 11,
+                "url": "/img/portfolio/florence/florence_10.jpg"
+            },
+            {
+                "id": 14,
+                "url": "/img/portfolio/florence/florence_11.jpg"
+            },
+            {
+                "id": 15,
+                "url": "/img/portfolio/florence/florence_12.jpg"
+            },
+            {
+                "id": 16,
+                "url": "/img/portfolio/florence/florence_13.jpg"
+            },
+            {
+                "id": 17,
+                "url": "/img/portfolio/florence/florence_14.jpg"
+            },
+            {
+                "id": 18,
+                "url": "/img/portfolio/florence/florence_15.jpg"
+            },
+            {
+                "id": 19,
+                "url": "/img/portfolio/florence/florence_16.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "type": "image",
+        "homeImage": "./img/portfolio/mourillon/mourillon_6.jpg",
+        "title": "Mourillon",
+        "slug": "mourillon",
+        "excerpt": "Novembre 2023",
+        "categories": ["Photographies urbaines", "Nature"],
+        "client": "Mourillon",
+        "date": "Octobre 2023",
+        "team": "Alpha 7C",
+        "services": "80mm f1.8",
+        "body": ["", ""],
+        "pageUrl": {},
+        "gallery": [
+            {
+                "id": 1,
+                "url": "/img/portfolio/mourillon/mourillon_1.jpg"
+            },
+            {
+                "id": 2,
+                "url": "/img/portfolio/mourillon/mourillon_2.jpg"
+            },
+            {
+                "id": 4,
+                "url": "/img/portfolio/mourillon/mourillon_3.jpg"
+            },
+            {
+                "id": 5,
+                "url": "/img/portfolio/mourillon/mourillon_4.jpg"
+            },
+            {
+                "id": 6,
+                "url": "/img/portfolio/mourillon/mourillon_5.jpg"
+            },
+            {
+                "id": 7,
+                "url": "/img/portfolio/mourillon/mourillon_6.jpg"
+            },
+            {
+                "id": 8,
+                "url": "/img/portfolio/mourillon/mourillon_7.jpg"
+            },
+            {
+                "id": 9,
+                "url": "/img/portfolio/mourillon/mourillon_8.jpg"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "type": "image",
+        "homeImage": "./img/portfolio/saint_tropez/saint_tropez_11.jpg",
+        "title": "Saint Tropez et Port Grimaud",
+        "slug": "saint_tropez",
+        "excerpt": "Novembre 2023",
+        "categories": ["Photographies urbaines", "Nature"],
+        "client": "Saint tropez",
+        "date": "Novembre 2023",
+        "team": "Alpha 7C",
+        "services": "80mm f1.8",
+        "body": ["", ""],
+        "pageUrl": {},
+        "gallery": [
+            {
+                "id": 1,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_1.jpg"
+            },
+            {
+                "id": 2,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_2.jpg"
+            },
+            {
+                "id": 4,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_3.jpg"
+            },
+            {
+                "id": 5,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_4.jpg"
+            },
+            {
+                "id": 6,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_5.jpg"
+            },
+            {
+                "id": 7,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_6.jpg"
+            },
+            {
+                "id": 8,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_7.jpg"
+            },
+            {
+                "id": 9,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_8.jpg"
+            },
+            {
+                "id": 10,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_9.jpg"
+            },
+            {
+                "id": 11,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_10.jpg"
+            },
+            {
+                "id": 14,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_11.jpg"
+            },
+            {
+                "id": 15,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_12.jpg"
+            },
+            {
+                "id": 16,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_13.jpg"
+            },
+            {
+                "id": 17,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_14.jpg"
+            },
+            {
+                "id": 18,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_15.jpg"
+            },
+            {
+                "id": 19,
+                "url": "/img/portfolio/saint_tropez/saint_tropez_16.jpg"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "type": "image",
+        "homeImage": "./img/portfolio/marseille/marseille_10.jpg",
+        "title": "Marseille",
+        "slug": "marseille",
+        "excerpt": "Novembre 2023",
+        "categories": ["Photographies urbaines"],
+        "client": "Marseille",
+        "date": "Novembre 2023",
+        "team": "Alpha 7C",
+        "services": "80mm f1.8",
+        "body": ["", ""],
+        "pageUrl": {},
+        "gallery": [
+            {
+                "id": 1,
+                "url": "/img/portfolio/marseille/marseille_1.jpg"
+            },
+            {
+                "id": 2,
+                "url": "/img/portfolio/marseille/marseille_2.jpg"
+            },
+            {
+                "id": 4,
+                "url": "/img/portfolio/marseille/marseille_3.jpg"
+            },
+            {
+                "id": 5,
+                "url": "/img/portfolio/marseille/marseille_4.jpg"
+            },
+            {
+                "id": 6,
+                "url": "/img/portfolio/marseille/marseille_5.jpg"
+            },
+            {
+                "id": 7,
+                "url": "/img/portfolio/marseille/marseille_6.jpg"
+            },
+            {
+                "id": 8,
+                "url": "/img/portfolio/marseille/marseille_7.jpg"
+            },
+            {
+                "id": 9,
+                "url": "/img/portfolio/marseille/marseille_8.jpg"
+            },
+            {
+                "id": 10,
+                "url": "/img/portfolio/marseille/marseille_9.jpg"
+            },
+            {
+                "id": 11,
+                "url": "/img/portfolio/marseille/marseille_10.jpg"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "type": "image",
+        "homeImage": "./img/portfolio/mucem/mucem_2.jpg",
+        "title": "Mucem",
+        "slug": "mucem",
+        "excerpt": "Novembre 2023",
+        "categories": ["Photographies urbaines"],
+        "client": "Mucem",
+        "date": "Novembre 2023",
+        "team": "Alpha 7C",
+        "services": "80mm f1.8",
+        "body": ["", ""],
+        "pageUrl": {},
+        "gallery": [
+            {
+                "id": 1,
+                "url": "/img/portfolio/mucem/mucem_1.jpg"
+            },
+            {
+                "id": 2,
+                "url": "/img/portfolio/mucem/mucem_2.jpg"
+            },
+            {
+                "id": 4,
+                "url": "/img/portfolio/mucem/mucem_3.jpg"
+            },
+            {
+                "id": 5,
+                "url": "/img/portfolio/mucem/mucem_4.jpg"
+            },
+            {
+                "id": 6,
+                "url": "/img/portfolio/mucem/mucem_5.jpg"
+            },
+            {
+                "id": 7,
+                "url": "/img/portfolio/mucem/mucem_6.jpg"
+            },
+            {
+                "id": 8,
+                "url": "/img/portfolio/mucem/mucem_7.jpg"
+            },
+            {
+                "id": 9,
+                "url": "/img/portfolio/mucem/mucem_8.jpg"
+            },
+            {
+                "id": 10,
+                "url": "/img/portfolio/mucem/mucem_9.jpg"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "type": "image",
+        "homeImage": "./img/portfolio/sablettes_2/sablettes_2_3.jpg",
+        "title": "Sablettes, Toulon",
+        "slug": "sablettes_3",
+        "excerpt": "Décembre 2023",
+        "categories": ["Nature"],
+        "client": "Sablettes, Toulon",
+        "date": "Décembre 2023",
+        "team": "Alpha 7C",
+        "services": "80mm f1.8",
+        "body": ["", ""],
+        "pageUrl": {},
+        "gallery": [
+            {
+                "id": 1,
+                "url": "/img/portfolio/sablettes_2/sablettes_2_1.jpg"
+            },
+            {
+                "id": 2,
+                "url": "/img/portfolio/sablettes_2/sablettes_2_2.jpg"
+            },
+            {
+                "id": 4,
+                "url": "/img/portfolio/sablettes_2/sablettes_2_3.jpg"
+            },
+            {
+                "id": 5,
+                "url": "/img/portfolio/sablettes_2/sablettes_2_4.jpg"
+            },
+            {
+                "id": 6,
+                "url": "/img/portfolio/sablettes_2/sablettes_2_5.jpg"
+            },
+            {
+                "id": 7,
+                "url": "/img/portfolio/sablettes_2/sablettes_2_6.jpg"
+            },
+            {
+                "id": 8,
+                "url": "/img/portfolio/sablettes_2/sablettes_2_7.jpg"
+            }
+        ]
     }
-]
+] 
