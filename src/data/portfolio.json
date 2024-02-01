@@ -395,7 +395,7 @@
         "client": "La-Seyne-Sur-Mer",
         "date": "Septembre 2023",
         "team": "Alpha 7C",
-        "services": "80mm f1.8",
+        "services": "85mm f1.8",
         "body": ["", ""],
         "pageUrl": {},
         "gallery": [
@@ -472,7 +472,7 @@
         "client": "Milan",
         "date": "Octobre 2023",
         "team": "Alpha 7C",
-        "services": "80mm f1.8",
+        "services": "85mm f1.8",
         "body": ["", ""],
         "pageUrl": {},
         "gallery": [
@@ -561,7 +561,7 @@
         "client": "Florence",
         "date": "Octobre 2023",
         "team": "Alpha 7C",
-        "services": "80mm f1.8",
+        "services": "85mm f1.8",
         "body": ["", ""],
         "pageUrl": {},
         "gallery": [
@@ -642,7 +642,7 @@
         "client": "Mourillon",
         "date": "Octobre 2023",
         "team": "Alpha 7C",
-        "services": "80mm f1.8",
+        "services": "85mm f1.8",
         "body": ["", ""],
         "pageUrl": {},
         "gallery": [
@@ -691,7 +691,7 @@
         "client": "Saint tropez",
         "date": "Novembre 2023",
         "team": "Alpha 7C",
-        "services": "80mm f1.8",
+        "services": "85mm f1.8",
         "body": ["", ""],
         "pageUrl": {},
         "gallery": [
@@ -772,7 +772,7 @@
         "client": "Marseille",
         "date": "Novembre 2023",
         "team": "Alpha 7C",
-        "services": "80mm f1.8",
+        "services": "85mm f1.8",
         "body": ["", ""],
         "pageUrl": {},
         "gallery": [
@@ -829,7 +829,7 @@
         "client": "Mucem",
         "date": "Novembre 2023",
         "team": "Alpha 7C",
-        "services": "80mm f1.8",
+        "services": "85mm f1.8",
         "body": ["", ""],
         "pageUrl": {},
         "gallery": [
@@ -882,7 +882,7 @@
         "client": "Sablettes, Toulon",
         "date": "Décembre 2023",
         "team": "Alpha 7C",
-        "services": "80mm f1.8",
+        "services": "85mm f1.8",
         "body": ["", ""],
         "pageUrl": {},
         "gallery": [
@@ -913,6 +913,140 @@
             {
                 "id": 8,
                 "url": "/img/portfolio/sablettes_2/sablettes_2_7.jpg"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "type": "image",
+        "homeImage": "./img/portfolio/autoportrait_capsicie/autoportrait_capsicie_7.jpg",
+        "title": "Plage de Malpasset, La-Seyne-Sur-Mer",
+        "slug": "autoportrait-malpasset",
+        "excerpt": "Janvier 2024",
+        "categories": ["Autoportrait"],
+        "client": "Plage de Malpasset, La-Seyne-Sur-Mer",
+        "date": "Janvier 2024",
+        "team": "Alpha 7C",
+        "services": "85mm f1.8 & 26-60mm f4-f5.6",
+        "body": ["", ""],
+        "pageUrl": {},
+        "gallery": [
+            {
+                "id": 1,
+                "url": "/img/portfolio/autoportrait_capsicie/autoportrait_capsicie_1.jpg"
+            },
+            {
+                "id": 2,
+                "url": "/img/portfolio/autoportrait_capsicie/autoportrait_capsicie_2.jpg"
+            },
+            {
+                "id": 4,
+                "url": "/img/portfolio/autoportrait_capsicie/autoportrait_capsicie_3.jpg"
+            },
+            {
+                "id": 5,
+                "url": "/img/portfolio/autoportrait_capsicie/autoportrait_capsicie_4.jpg"
+            },
+            {
+                "id": 6,
+                "url": "/img/portfolio/autoportrait_capsicie/autoportrait_capsicie_5.jpg"
+            },
+            {
+                "id": 7,
+                "url": "/img/portfolio/autoportrait_capsicie/autoportrait_capsicie_6.jpg"
+            },
+            {
+                "id": 8,
+                "url": "/img/portfolio/autoportrait_capsicie/autoportrait_capsicie_7.jpg"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "type": "image",
+        "homeImage": "./img/portfolio/cap_sicie_0224/cap_sicie2.jpg",
+        "title": "Cap sicié, La-Seyne-Sur-Mer",
+        "slug": "capsicie",
+        "excerpt": "Janvier 2024",
+        "categories": ["Nature", "Portrait"],
+        "client": "Sablettes, Toulon",
+        "date": "Janvier 2024",
+        "team": "Alpha 7C",
+        "services": "85mm f1.8 & 26-60mm f4-f5.6",
+        "body": ["", ""],
+        "pageUrl": {},
+        "gallery": [
+            {
+                "id": 1,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie1.jpg"
+            },
+            {
+                "id": 2,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie2.jpg"
+            },
+            {
+                "id": 4,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie3.jpg"
+            },
+            {
+                "id": 5,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie4.jpg"
+            },
+            {
+                "id": 6,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie5.jpg"
+            },
+            {
+                "id": 7,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie6.jpg"
+            },
+            {
+                "id": 8,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie7.jpg"
+            },
+            {
+                "id": 9,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie8.jpg"
+            },
+            {
+                "id": 10,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie9.jpg"
+            },
+            {
+                "id": 11,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie10.jpg"
+            },
+            {
+                "id": 12,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie11.jpg"
+            },
+            {
+                "id": 13,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie12.jpg"
+            },
+            {
+                "id": 14,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie13.jpg"
+            },
+            {
+                "id": 15,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie14.jpg"
+            },
+            {
+                "id": 16,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie15.jpg"
+            },
+            {
+                "id": 17,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie16.jpg"
+            },
+            {
+                "id": 18,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie17.jpg"
+            },
+            {
+                "id": 19,
+                "url": "/img/portfolio/cap_sicie_0224/cap_sicie18.jpg"
             }
         ]
     }
