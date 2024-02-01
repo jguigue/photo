@@ -42,7 +42,7 @@ const Footer = () => {
                                     </li>
                                     <li>
                                         <a
-                                            href="https://www.linkedin.com/in/julien-guigue-92976615b/"
+                                            href="https://www.linkedin.com/in/louisguigue/"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                         >
